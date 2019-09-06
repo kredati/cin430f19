@@ -30,7 +30,7 @@ In class:
 ### Week 4: Networks
 * Alexander Galloway, “Networks”
 * James Bridle, ch. 5, “Complexity,” from _New Dark Age_
-* Patrick Jagoda, “Introduction: Network Aesthetics” and “Coda: After Networks (Comes Ambivalence),” from _Network Aesthetics_
+* Patrick Jagoda, selections from _Network Aesthetics_
 * Wendy Chun and Sarah Friedland, “Habits of Leaking: Of Sluts and Network Cards”
 
 In class:
@@ -38,7 +38,7 @@ In class:
 * Group activity the third: Just disconnect
 
 ### Week 5: Economy
-* Malcolm Harris, Introduction, “Go to College,” and “Work (Sucks),” from _Kids These Days_
+* Malcolm Harris, selections from _Kids These Days_
 * David Graeber, "[On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/),” _Strike_ Magazine
 * Gilles Deleuze, “Postscript on Societies of Control”
 * Mark Fisher, selections from _Capitalist Realism_
@@ -92,8 +92,8 @@ In class:
 * Group activity the eighth: Follow the algorithm
 
 ### Week 11: Climate
-* Bridle, ch. 3, “Climate,” from _New Dark Age_
-* Bratton, “Earth Layer,” from _The Stack_
+* James Bridle, ch. 3, “Climate,” from _New Dark Age_
+* Benjamin Bratton, “Earth Layer,” from _The Stack_
 * Jenny Odell, chs. 4, “Exercises in Attention,” and 5, “Ecology of Strangers,” from _How to Do Nothing_
 * Group activity the last: Moving forward with final projects
 
