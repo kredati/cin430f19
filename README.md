@@ -1,7 +1,6 @@
+![Everything is terrible](./this-is-fine.jpg)
+
 # Everything is Terrible
-
-![This is fine](./this-is-fine.jpg)
-
 This is a repository for our course documents:
 * [Syllabus](./syllabus.md)
 * [Schedule](./schedule.md)
