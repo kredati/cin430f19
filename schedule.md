@@ -9,7 +9,7 @@
 * Jenny Odell, introduction, “Surviving Usefulness,” from _How to Do Nothing_
 
 In class:
-* James Hodge, et al., _Touch_ (short film):
+* James Hodge, et al., [_Touch_](https://vimeo.com/298442950?ref=tw-share) (short film)
 * Group activity the first: The worst part of the internet
 
 ### Week 2: Everything Was Already Terrible
