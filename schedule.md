@@ -13,7 +13,7 @@ In class:
 * Group activity the first: The worst part of the internet
 
 ### Week 2: Everything Was Already Terrible
-* Max Horkheimer and Theodor Adorno, “Enlightenment as Mass Deception: The Culture Industry,” from _Dialectic of Enlightenment_
+* Max Horkheimer and Theodor Adorno, “[Enlightenment as Mass Deception: The Culture Industry](https://cin430f19.slack.com/archives/CMRL4L2V8/p1567980092000100),” from _Dialectic of Enlightenment_
 * Theodor Adorno, selections from _Minima Moralia_
 
 In class:
