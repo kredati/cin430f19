@@ -20,18 +20,18 @@ In class:
 * Screening: _Koyaanisqatsi_ (Godfrey Reggio, USA, 1983, 83 min.)
 
 ### Week 3: Computation
-* Scott Richmond, “Four Histories of Computing”
+* Scott Richmond, “[Four Histories of Computing](https://cin430f19.slack.com/files/UN4DNLL13/FNN5Y7KP0/richmond_-_four_histories_of_computation.docx)”
 * James Bridle, chs. 2, “Computation,” and 4, “Calculation,” from _New Dark Age_
-* Benjamin Bratton, introduction to _The Stack: On Software and Sovereignty_
+* Benjamin Bratton, [introduction](https://cin430f19.slack.com/files/UN4DNLL13/FNEA8RBV3/benjamin_bratton_-_selections_from_the_stack.pdf) to _The Stack: On Software and Sovereignty_
 
 In class:
 * Group activity the second: A framework for final projects
 
 ### Week 4: Networks
-* Alexander Galloway, “Networks”
+* Alexander Galloway, “[Networks](https://cin430f19.slack.com/files/UN4DNLL13/FNNH4LLS1/alexander_galloway_-_networks.pdf)”
 * James Bridle, ch. 5, “Complexity,” from _New Dark Age_
-* Patrick Jagoda, selections from _Network Aesthetics_
-* Wendy Chun and Sarah Friedland, “Habits of Leaking: Of Sluts and Network Cards”
+* Patrick Jagoda, [introduction and coda](https://cin430f19.slack.com/files/UN4DNLL13/FNB3FQHA7/jagoda_-_introduction_and_coda__network_aesthetics.pdf) from _Network Aesthetics_
+* Wendy Chun and Sarah Friedland, “[Habits of Leaking: Of Sluts and Network Cards](https://cin430f19.slack.com/files/UN4DNLL13/FNG4RQKLH/sarah_friedland_and_wendy_chun_-_habits_of_leaking.pdf)”
 
 In class:
 * Screening: _Citizenfour_ (Laura Poitras, USA, 2014, 114 min.)
