@@ -73,7 +73,8 @@ Guides: Rafal and Alex
 * Patrick Jagoda, “Gamification and Other Forms of Play”
 * Jane McGonigal, selections from _Reality is Broken_
 * Group play: _Journey_
-* Group activity the fifth: Gamify your life
+* Group activity the sixth: Gamify your life
+* Group activity the seventh: Get on with your final projects
 
 #### 11/4: Fall break
 
@@ -87,9 +88,8 @@ Guide: Yazmeen
 
 In class:
 * Screening: _HOW NOT TO BE SEEN: A Fucking Didactic Educational .mov file_ (Hito Steyerl, Germany, 2013, 15 min.)
-* Group activity the fifth (reprise): Gamify your life
-* Group activity the sixth: Make a meme
-* Group activity the seventh: Get on with your final projects
+* Group activity the sixth (reprise): Gamify your life
+* Group activity the eigth: Make a meme
 
 ### 11/18, Week 10: Attention
 Guides: Katie and Veronica
@@ -97,13 +97,14 @@ Guides: Katie and Veronica
 * James Bridle, ch. 9, “Concurrency,” from _New Dark Age_
 * Jenny Odell, chs. 1, “The Case for Nothing,” and 2, “The Impossibility of Retreat,” from _How to Do Nothing_
 * Eve Sedgwick, “Paranoid Reading and Reparative Reading,” from _Touching, Feeling_
-* Group activity the eighth: Follow the algorithm
+* Group activity the ninth: Follow the algorithm
 
 ### 11/25, Week 11: Climate
 Guides: Merial and Rachel
 * James Bridle, ch. 3, “Climate,” from _New Dark Age_
 * Benjamin Bratton, “Earth Layer,” from _The Stack_
 * Jenny Odell, chs. 4, “Exercises in Attention,” and 5, “Ecology of Strangers,” from _How to Do Nothing_
+* Group activity the ninth (reprise): Follow the algorithm
 * Group activity the last: Moving forward with final projects
 
 ### 12/2, Week 12: Finishing up
