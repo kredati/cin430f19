@@ -40,22 +40,7 @@ In class:
 * Screening: _Citizenfour_ (Laura Poitras, USA, 2014, 114 min.)
 * Group activity the third: Just disconnect
 
-### 10/7, Week 5: Economy
-Guide: Brandon
-* Malcolm Harris, selections from _Kids These Days_
-* David Graeber, "[On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/),” _Strike_ Magazine
-* Gilles Deleuze, “Postscript on Societies of Control”
-* Mark Fisher, selections from _Capitalist Realism_
-* Jenny Odell, from _How to Do Nothing_
-
-In class:
-* Screening: _Fyre_ (Chris Smith, USA, 2019, 97 min.)
-* Group activity the third (reprise): Just disconnect
-* Group activity the fourth: Fake an event
-
-### 10/14, Week 6: No meeting; Thanksgiving
-
-### 10/21, Week 7: Personhood
+### 10/7, Week 5: Personhood
 Guides: Ninoshka and Victoria
 * Julian Dibbell, “A Rape in Cyberspace”
 * John Cheney-Lippold, “A New Algorithmic Identity”
@@ -65,7 +50,22 @@ Guides: Ninoshka and Victoria
 
 In class:
 * Screening: _My Best Thing_ (Frances Stark, USA, 2011, 99 min.)
-* Group activity the fifth: Speculative dating app
+* Group activity the third (reprise): Just disconnect
+* Group activity the fourth: Speculative dating app
+
+### 10/14, Week 6: No meeting; Thanksgiving
+
+### 10/21, Week 7: Economy
+Guide: Brandon
+* Malcolm Harris, selections from _Kids These Days_
+* David Graeber, "[On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/),” _Strike_ Magazine
+* Gilles Deleuze, “Postscript on Societies of Control”
+* Mark Fisher, selections from _Capitalist Realism_
+* Jenny Odell, from _How to Do Nothing_
+
+In class:
+* Screening: _Fyre_ (Chris Smith, USA, 2019, 97 min.)
+* Group activity the fifth: Fake an event
 
 ### 10/28, Week 8: Games
 Guides: Rafal and Alex
