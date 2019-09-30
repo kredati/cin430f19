@@ -42,10 +42,10 @@ In class:
 
 ### 10/7, Week 5: Personhood
 Guides: Ninoshka and Victoria
-* Julian Dibbell, “A Rape in Cyberspace”
-* John Cheney-Lippold, “A New Algorithmic Identity”
-* Kris Cohen, “Search Engine Subjectivities” from _Never Alone Except for Now_
-* James Hodge, “Sociable Media”
+* Julian Dibbell, “[A Rape in Cyberspace](https://cin430f19.slack.com/files/UN4DNLL13/FNYBFQUJK/julian_dibbell_-_a_rape_in_cyberspace.pdf)”
+* John Cheney-Lippold, “[A New Algorithmic Identity](https://cin430f19.slack.com/files/UN4DNLL13/FNYBFCAMV/john_lippold-cheney_-_a_new_algorithmic_identity.pdf)”
+* Kris Cohen, “[Search Engine Subjectivities](https://cin430f19.slack.com/files/UN4DNLL13/FNQ368JHF/kris_cohen_-_search_engine_subjectivities__from_never_alone_except_for_now.pdf)” from _Never Alone Except for Now_
+* James Hodge, “[Sociable Media](https://cin430f19.slack.com/files/UN4DNLL13/FNHN95E6N/hodge_-_sociable_media.pdf)”
 * Jonathan Harris & Greg Hochmuth, [_Network Effect_](https://networkeffect.io)
 
 In class:
