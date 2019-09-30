@@ -13,6 +13,7 @@ In class:
 * Group activity the first: The worst part of the internet
 
 ### 9/16, Week 2: Everything Was Already Terrible
+Guides: Livi and Patrick
 * Max Horkheimer and Theodor Adorno, “[Enlightenment as Mass Deception: The Culture Industry](https://cin430f19.slack.com/archives/CMRL4L2V8/p1567980092000100),” from _Dialectic of Enlightenment_
 * Theodor Adorno, selections from _Minima Moralia_
 
@@ -20,6 +21,7 @@ In class:
 * Screening: _Koyaanisqatsi_ (Godfrey Reggio, USA, 1983, 83 min.)
 
 ### 9/23, Week 3: Computation
+Guides: Angela and Cassandra
 * Scott Richmond, “[Four Histories of Computing](https://cin430f19.slack.com/files/UN4DNLL13/FNN5Y7KP0/richmond_-_four_histories_of_computation.docx)”
 * James Bridle, chs. 2, “Computation,” and 4, “Calculation,” from _New Dark Age_
 * Benjamin Bratton, [introduction](https://cin430f19.slack.com/files/UN4DNLL13/FNEA8RBV3/benjamin_bratton_-_selections_from_the_stack.pdf) to _The Stack: On Software and Sovereignty_
@@ -28,6 +30,7 @@ In class:
 * Group activity the second: A framework for final projects
 
 ### 9/30, Week 4: Networks
+Guides: Emily and Lara
 * Alexander Galloway, “[Networks](https://cin430f19.slack.com/files/UN4DNLL13/FNNH4LLS1/alexander_galloway_-_networks.pdf)”
 * James Bridle, ch. 5, “Complexity,” from _New Dark Age_
 * Patrick Jagoda, [introduction and coda](https://cin430f19.slack.com/files/UN4DNLL13/FNB3FQHA7/jagoda_-_introduction_and_coda__network_aesthetics.pdf) from _Network Aesthetics_
@@ -38,6 +41,7 @@ In class:
 * Group activity the third: Just disconnect
 
 ### 10/7, Week 5: Economy
+Guide: Brandon
 * Malcolm Harris, selections from _Kids These Days_
 * David Graeber, "[On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/),” _Strike_ Magazine
 * Gilles Deleuze, “Postscript on Societies of Control”
@@ -52,6 +56,7 @@ In class:
 ### 10/14, Week 6: No meeting; Thanksgiving
 
 ### 10/21, Week 7: Personhood
+Guides: Ninoshka and Victoria
 * Julian Dibbell, “A Rape in Cyberspace”
 * John Cheney-Lippold, “A New Algorithmic Identity”
 * Kris Cohen, “Search Engine Subjectivities” from _Never Alone Except for Now_
@@ -63,6 +68,7 @@ In class:
 * Group activity the fifth: Speculative dating app
 
 ### 10/28, Week 8: Games
+Guides: Rafal and Alex
 * David Golumbia, “Games without Play”
 * Patrick Jagoda, “Gamification and Other Forms of Play”
 * Jane McGonigal, selections from _Reality is Broken_
@@ -72,6 +78,7 @@ In class:
 #### 11/4: Fall break
 
 ### 11/11, Week 9: Blackness + Surveillance
+Guide: Yazmeen
 * Lauren Jackson, "[We Need to Talk About Digital Blackface in Reaction GIFs](https://www.teenvogue.com/story/digital-blackface-reaction-gifs)"
 * Aria Dean, “[Poor Meme, Rich Meme](https://reallifemag.com/poor-meme-rich-meme/)”
 * Shaka McGlotten, "[Black Data](http://sfonline.barnard.edu/traversing-technologies/shaka-mcglotten-black-data/)"
@@ -85,6 +92,7 @@ In class:
 * Group activity the seventh: Get on with your final projects
 
 ### 11/18, Week 10: Attention
+Guides: Katie and Veronica
 * John Lanchester, “[You Are the Product](https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product),” _London Review of Books_
 * James Bridle, ch. 9, “Concurrency,” from _New Dark Age_
 * Jenny Odell, chs. 1, “The Case for Nothing,” and 2, “The Impossibility of Retreat,” from _How to Do Nothing_
@@ -92,6 +100,7 @@ In class:
 * Group activity the eighth: Follow the algorithm
 
 ### 11/25, Week 11: Climate
+Guides: Merial and Rachel
 * James Bridle, ch. 3, “Climate,” from _New Dark Age_
 * Benjamin Bratton, “Earth Layer,” from _The Stack_
 * Jenny Odell, chs. 4, “Exercises in Attention,” and 5, “Ecology of Strangers,” from _How to Do Nothing_
