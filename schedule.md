@@ -57,11 +57,11 @@ In class:
 
 ### 10/21, Week 7: Economy
 Guide: Brandon
-* Malcolm Harris, selections from _Kids These Days_
-* David Graeber, "[On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/),” _Strike_ Magazine
+* Malcolm Harris, [“Go to College,”](https://cin430f19.slack.com/files/UN4DNLL13/FPKT7FJ9L/malcolm_harris_-_go_to_college__from_kids_these_days.pdf) from _Kids These Days_
+* David Graeber, “[On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/),” _Strike_ Magazine
 * Gilles Deleuze, “[Postscript on Societies of Control](https://cin430f19.slack.com/files/UN4DNLL13/FPATTHATB/gilles_deleuze_-_postscript_on_the_societies_of_control.pdf)”
-* Mark Fisher, selections from _Capitalist Realism_
-* Jenny Odell, from _How to Do Nothing_
+* Mark Fisher, selections from [_Capitalist Realism_](https://cin430f19.slack.com/files/UN4DNLL13/FPH82612Q/mark_fisher_-_capitalist_realism.pdf)
+* Jenny Odell, chapters 1 & 2 from _How to Do Nothing_
 
 In class:
 * Screening: _Fyre_ (Chris Smith, USA, 2019, 97 min.)
