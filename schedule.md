@@ -59,7 +59,7 @@ In class:
 Guide: Brandon
 * Malcolm Harris, selections from _Kids These Days_
 * David Graeber, "[On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/),” _Strike_ Magazine
-* Gilles Deleuze, “Postscript on Societies of Control”
+* Gilles Deleuze, “[Postscript on Societies of Control](https://cin430f19.slack.com/files/UN4DNLL13/FPATTHATB/gilles_deleuze_-_postscript_on_the_societies_of_control.pdf)”
 * Mark Fisher, selections from _Capitalist Realism_
 * Jenny Odell, from _How to Do Nothing_
 
