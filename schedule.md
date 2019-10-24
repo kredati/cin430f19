@@ -69,9 +69,9 @@ In class:
 
 ### 10/28, Week 8: Games
 Guides: Rafal and Alex
-* David Golumbia, “Games without Play”
-* Patrick Jagoda, “Gamification and Other Forms of Play”
-* Jane McGonigal, selections from _Reality is Broken_
+* David Golumbia, “[Games without Play](https://cin430f19.slack.com/files/UN4DNLL13/FPENS4GF5/david_golumbia_-_games_without_play.pdf)”
+* Patrick Jagoda, “[Gamification and Other Forms of Play](https://cin430f19.slack.com/files/UN4DNLL13/FPKPMFU6M/jagoda_-_gamification_and_other_forms_of_play.pdf)”
+* Jane McGonigal, [selections from _Reality is Broken_](https://cin430f19.slack.com/files/UN4DNLL13/FPS7T7R7X/jane_mcgonigal_-_reality_is_broken_exerpts_for_cin430.pdf)
 * Group play: _Journey_
 * Group activity the sixth: Gamify your life
 * Group activity the seventh: Get on with your final projects
