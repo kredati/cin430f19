@@ -95,15 +95,15 @@ In class:
 Guides: Katie and Veronica
 * John Lanchester, “[You Are the Product](https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product),” _London Review of Books_
 * James Bridle, ch. 9, “Concurrency,” from _New Dark Age_
-* Jenny Odell, chs. 1, “The Case for Nothing,” and 2, “The Impossibility of Retreat,” from _How to Do Nothing_
-* Eve Sedgwick, “Paranoid Reading and Reparative Reading,” from _Touching, Feeling_
+* Jenny Odell, ch. 4, “Exercises in Attention,” from _How to Do Nothing_
+* Eve Sedgwick, “[Paranoid Reading and Reparative Reading](https://cin430f19.slack.com/archives/CMRL4L2V8/p1573501938000100),” from _Touching, Feeling_
 * Group activity the ninth: Follow the algorithm
 
 ### 11/25, Week 11: Climate
 Guides: Merial and Rachel
 * James Bridle, ch. 3, “Climate,” from _New Dark Age_
 * Benjamin Bratton, “Earth Layer,” from _The Stack_
-* Jenny Odell, chs. 4, “Exercises in Attention,” and 5, “Ecology of Strangers,” from _How to Do Nothing_
+* Jenny Odell, ch. 5, “Ecology of Strangers,” from _How to Do Nothing_
 * Group activity the ninth (reprise): Follow the algorithm
 * Group activity the last: Moving forward with final projects
 
