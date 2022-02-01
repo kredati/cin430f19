@@ -1,4 +1,3 @@
-@@ -1,64 +0,0 @@
 # Final Project Workshop the first
 ## Developing some guidelines
 
